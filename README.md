@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building community around [Open Source Data Infrastructure](https://www.meetup.com/nl-NL/pro/open-source-data-infrastructure-community/) at [Aiven](https://aiven.io)
+  - You might also know me from [Drupal](https://drupal.org/) :)
 - 🌱 I’m currently learning #apachekafka, #apacheflink, #opensearch, #clickhouse, #grafana, #nosql
 - 👯 I’m looking to collaborate on empowering open source communities to be awesome! :D
 - 💬 Ask me about #opensource, #community, #governance, #data
