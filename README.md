@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning #apachekafka, #apacheflink, #opensearch, #clickhouse, #grafana, #nosql
 - 👯 I’m looking to collaborate on empowering open source communities to be awesome! :D
 - 💬 Ask me about #opensource, #community, #governance, #data
-- 😄 Pronouns: she/they
 
 <!--
 **webchick/webchick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
