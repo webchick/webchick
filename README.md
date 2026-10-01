@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m Principal Product Manager for [Acquia][https://www.acquia.com/].
+- 🔭 I’m Principal Product Manager for [Acquia](https://www.acquia.com/).
   - You might also know me from [Temporal](https://temporal.io/) or [MongoDB](https://mongodb.com) :)
 - 🌱 I’m currently learning #ai, #evals, #agentexperience
 - 👯 I’m looking to collaborate on empowering open source communities to be awesome! :D
